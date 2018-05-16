@@ -1,7 +1,7 @@
 stocks
 ==============================
 
-Check stocks return
+Check stocks return in US market
 
 Reports
 ------------
