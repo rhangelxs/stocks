@@ -8,7 +8,7 @@ Reports
 
 Located in `notebooks` folder
 
-Run
+Run & replicate
 ------------
 
 To run notebooks execute following command: `make requirements && make data`
