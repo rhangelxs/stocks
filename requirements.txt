@@ -11,3 +11,12 @@ python-dotenv>=0.5.1
 
 pandas-datareader
 requests_cache
+
+sklearn
+seaborn
+scipy
+statsmodels
+
+pymc3
+
+-e git+https://github.com/David-OConnor/egcm#egg=egcm
