@@ -15,14 +15,14 @@ To run notebooks execute following command: `make requirements && make data`
 
 Available rules (target) for make command:
 
-clean               Delete all compiled Python files
-create_environment  Set up python interpreter environment
-data                Make Dataset
-lint                Lint using flake8
-requirements        Install Python Dependencies
-sync_data_from_s3   Download Data from S3
-sync_data_to_s3     Upload Data to S3
-test_environment    Test python environment is setup correctly
+    ├──clean               Delete all compiled Python files
+    ├──create_environment  Set up python interpreter environment
+    ├──data                Make Dataset
+    ├──lint                Lint using flake8
+    ├──requirements        Install Python Dependencies
+    ├──sync_data_from_s3   Download Data from S3
+    ├──sync_data_to_s3     Upload Data to S3
+    ├──test_environment    Test python environment is setup correctly
 
 Project Organization
 ------------
